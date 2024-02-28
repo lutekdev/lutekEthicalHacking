@@ -2,5 +2,51 @@
 Redes Socias e Recursos Extras do Professor:
   - https://allmylinks.com/mflavio2k
 ---
+O Que é Ethical  Hacking:
+  - Penetration Test:
+      - É a principal ferramenta de um Hacker Ético.
 
-  
+      - Alguns Lemas:
+          - Invadir para Proteger.
+---
+Niveis de Pentester / Ethical Hacker:
+  - Nivel 1 - Junior
+    - Conhece ferramentas básicas de pentest, não é capaz de desenvolver suas próprias ferramentas e tecnicas.
+
+  - Nivel 2 - Pleno
+    - Desenvolve suas próprias ferramentas e scripts para realização dos penetration tests.
+
+  - Nivel 3 - Sênior
+    -  Preferem Debugar o funcionamento de softwares e protocolos em busca de falhas do tipo 0-day.
+---
+Mercado de Trabalho e Certificações:
+  - Certificações:
+      - Exin (Recomendação)
+      - CEH (Recomendação)
+      - GIAC Penetration Tester (GPEN)
+      - Offensive Security OSCP (Mais Complexa)
+      - GIAC Web App Pen Tester (GWAP)
+---
+Tipos de Penetration Test:
+  - Black Box:
+      - Quando você não possui nenhuma informação do alvo.
+  - Grey Box:
+      - Quando você possui parte da informação do alvo.
+  - White Box:
+      - Quando você possui toda a informação do alvo.
+---
+Fases de um Teste de Invasão:
+  - Reconhecimento.
+  - Varredura.
+  - Ganhando Acesso.
+  - Mantendendo o Acesso.
+  - Cobrindo Rastros.
+---
+Termo de Responsabilidade e Confidencialidade:
+  - NDA - Non Disclosure Agreement
+    - Nenhum tipo de responsabilidade.
+    - Nenhuma garantia de confidencialidade.
+    - O NDA não se responsabiliza por qualquer dano ou perda de dados.
+    - https://www.docusign.com/pt-br/blog/significado-de-nda-o-que-e-quem-assina-e-como-fazer
+---
+
